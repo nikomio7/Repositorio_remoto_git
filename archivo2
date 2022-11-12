@@ -1,6 +1,9 @@
 
 hola esto es una modificacion para la prueba de eliminicacion en git 
+<<<<<<< HEAD
 
 es una segunda linea de modificacion 
 
 esto es una tercera linea de cambio 
+=======
+>>>>>>> parent of 4395723... segunda linea modificada en archivo de prueba2
